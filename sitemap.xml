@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://mylesaway-travel.com/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://mylesaway-travel.com/assets/images/hawaii-kauai-coast.jpg</image:loc>
+      <image:title>Na Pali Coast, Kauai, Hawaii</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mylesaway-travel.com/assets/images/bora-bora-resort-pool.jpg</image:loc>
+      <image:title>Bora Bora resort and lagoon, French Polynesia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mylesaway-travel.com/assets/images/florence-duomo-skyline.jpg</image:loc>
+      <image:title>Florence Cathedral dome, Italy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://mylesaway-travel.com/destinations.html</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://mylesaway-travel.com/assets/images/kauai-hanalei-rainbow.jpg</image:loc>
+      <image:title>Rainbow over Hanalei Bay, Kauai, Hawaii</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mylesaway-travel.com/assets/images/new-zealand-waterfall.jpg</image:loc>
+      <image:title>Waterfall in New Zealand</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mylesaway-travel.com/assets/images/bora-bora-sunset-bungalows.jpg</image:loc>
+      <image:title>Overwater bungalows at sunset, Bora Bora</image:title>
+    </image:image>
+  </url>
+</urlset>
